@@ -5,9 +5,7 @@ REQUIREMENT:
 
 system resolution 1366x768 must be set.
 Mozila Firefox 17 
-Xammp web server latest version
-You can download PHP 5 from here =>https://www.apachefriends.org/xampp-files/5.6.30/xampp-win32-5.6.30-0-VC11-installer.exe
-
+XAMPP Win32 5.6.30 VC11 , Download From https://www.apachefriends.org/xampp-files/5.6.30/xampp-win32-5.6.30-0-VC11-installer.exe
 
 step 1: Extract file 
 step 2: copy fb folder
